@@ -6,6 +6,10 @@ This is a collection of research and review papers of multi-agent reinforcement 
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Lantao Yu](https://lantaoyu.github.io/) (Email: lantaoyu [AT] hotmail.com).
 
+
+
+Forked and edited by [Mark](https://github.com/ZJUMark)(hzypp1995@gmail.com)
+
 ## Overview
 * [Tutorial](https://github.com/LantaoYu/MARL-Papers#tutorial-and-books)
 * [Review Papers](https://github.com/LantaoYu/MARL-Papers#review-papers)
@@ -34,7 +38,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Deep Reinforcement Learning Variants of Multi-Agent Learning Algorithms](https://project-archive.inf.ed.ac.uk/msc/20162091/msc_proj.pdf) by Castaneda A O. 2016.
 * [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://www.jair.org/index.php/jair/article/view/10952) by Bloembergen, Daan, et al. JAIR, 2015.
 * [Game theory and multi-agent reinforcement learning](https://www.researchgate.net/publication/269100101_Game_Theory_and_Multi-agent_Reinforcement_Learning) by Nowé A, Vrancx P, De Hauwere Y M. Reinforcement Learning. Springer Berlin Heidelberg, 2012.
-* [Multi-agent reinforcement learning: An overview](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf) by Buşoniu L, Babuška R, De Schutter B. Innovations in multi-agent systems and applications-1. Springer Berlin Heidelberg, 2010
+* ​[:heavy_check_mark:](notes.md#Overview2010)[Multi-agent reinforcement learning: An overview](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf) by Buşoniu L, Babuška R, De Schutter B. Innovations in multi-agent systems and applications-1. Springer Berlin Heidelberg, 2010
 * [A comprehensive survey of multi-agent reinforcement learning](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/07_019.pdf) by Busoniu L, Babuska R, De Schutter B. IEEE Transactions on Systems Man and Cybernetics Part C Applications and Reviews, 2008
 * [If multi-agent learning is the answer, what is the question?](http://robotics.stanford.edu/~shoham/www%20papers/LearningInMAS.pdf) by Shoham Y, Powers R, Grenager T. Artificial Intelligence, 2007.
 * [From single-agent to multi-agent reinforcement learning: Foundational concepts and methods](http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/learningNeto05.pdf) by Neto G. Learning theory course, 2005.
